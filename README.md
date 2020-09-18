@@ -1,2 +1,2 @@
 # regions
-JSON datasets of regions
+CSV datasets of regions
